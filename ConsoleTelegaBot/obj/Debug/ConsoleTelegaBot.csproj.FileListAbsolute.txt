@@ -1,0 +1,12 @@
+C:\Users\s.ishmuratov\source\repos\ConsoleTelegaBot\ConsoleTelegaBot\bin\Debug\ConsoleTelegaBot.exe.config
+C:\Users\s.ishmuratov\source\repos\ConsoleTelegaBot\ConsoleTelegaBot\bin\Debug\ConsoleTelegaBot.exe
+C:\Users\s.ishmuratov\source\repos\ConsoleTelegaBot\ConsoleTelegaBot\bin\Debug\ConsoleTelegaBot.pdb
+C:\Users\s.ishmuratov\source\repos\ConsoleTelegaBot\ConsoleTelegaBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\s.ishmuratov\source\repos\ConsoleTelegaBot\ConsoleTelegaBot\bin\Debug\Telegram.Bot.dll
+C:\Users\s.ishmuratov\source\repos\ConsoleTelegaBot\ConsoleTelegaBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\s.ishmuratov\source\repos\ConsoleTelegaBot\ConsoleTelegaBot\bin\Debug\Telegram.Bot.xml
+C:\Users\s.ishmuratov\source\repos\ConsoleTelegaBot\ConsoleTelegaBot\obj\Debug\ConsoleTelegaBot.csprojAssemblyReference.cache
+C:\Users\s.ishmuratov\source\repos\ConsoleTelegaBot\ConsoleTelegaBot\obj\Debug\ConsoleTelegaBot.csproj.CoreCompileInputs.cache
+C:\Users\s.ishmuratov\source\repos\ConsoleTelegaBot\ConsoleTelegaBot\obj\Debug\ConsoleTelegaBot.csproj.CopyComplete
+C:\Users\s.ishmuratov\source\repos\ConsoleTelegaBot\ConsoleTelegaBot\obj\Debug\ConsoleTelegaBot.exe
+C:\Users\s.ishmuratov\source\repos\ConsoleTelegaBot\ConsoleTelegaBot\obj\Debug\ConsoleTelegaBot.pdb
